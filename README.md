@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-This repository contains various ipynb and python files, includes learning from various courses and blogs and caggle dataset's from year 2019.
+This repository contains various ipynb and python files, includes learning from various courses and blogs and kaggle dataset's from year 2019.
 
 References:
 
